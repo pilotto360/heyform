@@ -1,34 +1,37 @@
-{
-  "languages": {
-    "de": {
-      "original": "Deutsch",
-      "translated": "German"
-    },
-    "en": {
-      "original": "English",
-      "translated": "English"
-    },
-    "fr": {
-      "original": "Français",
-      "translated": "French"
-    },
-    "ja": {
-      "original": "日本語",
-      "translated": "Japanese"
-    },
-    "pl": {
-      "original": "Polski",
-      "translated": "Polish"
-    },
-    "zh-cn": {
-      "original": "简体中文",
-      "translated": "Chinese (Simplified)"
-    },
-    "zh-tw": {
-      "original": "繁體中文（台灣）",
-      "translated": "Chinese (Taiwan)"
-    }
+"languages": {
+  "de": {
+    "original": "Deutsch",
+    "translated": "German"
   },
+  "en": {
+    "original": "English",
+    "translated": "English"
+  },
+  "fr": {
+    "original": "Français",
+    "translated": "French"
+  },
+  "ja": {
+    "original": "日本語",
+    "translated": "Japanese"
+  },
+  "pl": {
+    "original": "Polski",
+    "translated": "Polish"
+  },
+  "zh-cn": {
+    "original": "简体中文",
+    "translated": "Chinese (Simplified)"
+  },
+  "zh-tw": {
+    "original": "繁體中文（台灣）",
+    "translated": "Chinese (Taiwan)"
+  },
+  "pt-br": {
+    "original": "Português (Brasil)",
+    "translated": "Portuguese (Brazil)"
+  }
+},
   "timezones": {
     "niue": "Niue",
     "samoa": "Samoa",
