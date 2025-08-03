@@ -4,7 +4,8 @@ import { initReactI18next } from 'react-i18next'
 import { locales } from './locales'
 import { AnyMap } from './typings'
 
-export function initI18n(fallbackLng = 'en', customLocales?: AnyMap) {
+export function initI18n(fallbackLng = 'pt-br', customLocales?: AnyMap) {
+//export function initI18n(fallbackLng = 'en', customLocales?: AnyMap) {
   const resources = customLocales || locales
 
   i18n.use(initReactI18next).init({
